@@ -31,7 +31,7 @@ body {
   padding: 14px 24px;
   background: #166f78;
   color: #f8f9fa;
-  position: fixed;
+  position: sticky;
   top: 0;
   border-bottom: 4px solid #09aab1;
   z-index: 1000;
