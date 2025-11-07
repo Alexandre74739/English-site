@@ -33,7 +33,7 @@ body {
     padding: 14px 24px;
     background: $primary800;
     color: #f8f9fa;
-    position: fixed;
+    position: relative;
     top: 0;
     border-bottom: 4px solid $primary600;
     z-index: 1000;
@@ -366,4 +366,5 @@ footer {
     .desktop-video {
         display: block;
     }
+
 }
